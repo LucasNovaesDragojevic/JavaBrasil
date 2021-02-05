@@ -14,6 +14,18 @@
 			<artifactId>caelum-stella-core</artifactId>
 			<version>2.1.5</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.javamoney.moneta/moneta-core -->
+		<dependency>
+			<groupId>org.javamoney.moneta</groupId>
+			<artifactId>moneta-core</artifactId>
+			<version>1.4.2</version>
+		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.javamoney.moneta/moneta-convert -->
+		<dependency>
+			<groupId>org.javamoney.moneta</groupId>
+			<artifactId>moneta-convert</artifactId>
+			<version>1.4.2</version>
+		</dependency>
 	</dependencies>
 
 	<properties>
