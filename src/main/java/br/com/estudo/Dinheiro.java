@@ -1,7 +1,5 @@
 package br.com.estudo;
 
-import java.util.Collection;
-
 import javax.money.CurrencyUnit;
 import javax.money.Monetary;
 import javax.money.MonetaryAmount;
